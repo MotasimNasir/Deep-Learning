@@ -1,4 +1,4 @@
-# deep-learning: Charity Funding Predictor
+# Deep Learning: Charity Funding Predictor
 
 This repository contains two pieces of code carrying out the following:
 
